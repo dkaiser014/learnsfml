@@ -1,4 +1,4 @@
-# 👾 Going From Zero To Hero on SFML/C++
+# Going From Zero To Hero on SFML/C++
 
 Follow me through this journey learning SFML using C++
 
